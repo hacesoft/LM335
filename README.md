@@ -3,6 +3,8 @@
 
 ### Návod na výrobu teplotního čidla pro Cerbo - Victron
 
+- (řízení FVE) -> https://github.com/hacesoft/Linea
+
 ![image](https://github.com/user-attachments/assets/b0c7f3f4-096e-49ff-9f75-bd2c920f423f)
 
 ### Potřebné nářadí:
